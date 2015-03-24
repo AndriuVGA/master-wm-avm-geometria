@@ -1,2 +1,2 @@
-# master-wm-xxx-geometria
+# master-wm-avm-geometria
 ejercicio6
